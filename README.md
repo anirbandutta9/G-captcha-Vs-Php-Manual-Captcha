@@ -10,5 +10,5 @@ An application to learn the implementation concepts of Captcha (Google captcha A
 * Just Paste the files (index.php, submitcombine.php, captcha.php) under your Php Developement environment.. It will be up and running !
 
 ## Related reference: 
-[Google-recaptcha](https://github.com/google/recaptcha)
-[Google-recaptcha Tutorial](https://developers.google.com/recaptcha/old/docs/php)
+- [Google-recaptcha](https://github.com/google/recaptcha)
+- [Google-recaptcha Tutorial](https://developers.google.com/recaptcha/old/docs/php)
