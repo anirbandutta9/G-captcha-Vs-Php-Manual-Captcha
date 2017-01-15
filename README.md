@@ -1,2 +1,7 @@
 # G-captcha-Vs-Php-Manual-Captcha
+
+![captcha](https://cloud.githubusercontent.com/assets/16975766/21960974/911dc03c-db22-11e6-9810-7f80f9f92c4d.png)
+
+
+
 An application to learn the implementation concepts of Captcha (Google captcha API + Manually coded captcha) in PHP web forms.. 
