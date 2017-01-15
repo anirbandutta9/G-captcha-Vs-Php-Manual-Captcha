@@ -12,3 +12,6 @@ An application to learn the implementation concepts of Captcha (Google captcha A
 ## Related reference: 
 - [Google-recaptcha](https://github.com/google/recaptcha)
 - [Google-recaptcha Tutorial](https://developers.google.com/recaptcha/old/docs/php)
+
+## License
+MIT © [Anirban Dutta](http://anirbandutta.xyz)
