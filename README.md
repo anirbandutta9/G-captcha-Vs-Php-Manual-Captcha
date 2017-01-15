@@ -5,3 +5,6 @@
 
 
 An application to learn the implementation concepts of Captcha (Google captcha API + Manually coded captcha) in PHP web forms.. 
+
+Install :
+Just Paste the files (index.php, submitcombine.php, captcha.php) under your Php Developement environment.. It will be up and running !
